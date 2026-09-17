@@ -10,7 +10,7 @@ A deal analyst take-home exercise analysing **Warburg Pincus Asia**'s investment
 | File | Description |
 |---|---|
 | `Warburg_Pincus_Case_Aditya_Gautam.pdf` | 3-slide submission: Firm Spotlight, Deal Deep Dive, Forward Sourcing |
-| `deal-analyst-exercise.pdf` | Original case prompt and evaluation criteria |
+
 
 ## Exercise Brief
 
